@@ -1,0 +1,41 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    }
+img{
+    margin-top: 100px;
+    max-width: 60%;
+    }  
+h1{
+    Color: red
+    }            
+h3{
+    color: blue
+    }
+h5{
+    text-align: end;
+    }
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    }    
+a:hover{
+    color: lawngreen;
+}
+.b{
+    border-radius: 20px;
+    padding: 10px 15px;
+    border: black;
+    margin: 15px;
+}
+.b:hover{
+    color: rgb(252, 0, 0);
+    font-weight: bold
+}
+.t{
+    border-radius: 20px;
+    padding: 12px;
+    margin: 15px;
+    width: 50%;
+}
